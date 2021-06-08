@@ -29,5 +29,5 @@ In this repository there are 2 folders, one where the problem is solved, contain
 For the experimental data a data generator was used, the final results are in the Code folder -> date_experimentale subfolder.
 
 ------------------------------------------------------------------------------------------------------------------------------
-!!!! Read the pdf entitled Artificial_Intelligence_Homework.pdf for more explanatory details  !!!
+!! Read the pdf entitled Artificial_Intelligence_Homework.pdf for more explanatory details  !!
 -----------------------------------------------------------------------------------------------------------------------------
