@@ -26,7 +26,9 @@ R2.  Present and comment your experimental results and choices in a meaningful w
 NOTE:
 -------------------------------------------------------------------------------------------------------------------------------
 In this repository there are 2 folders, one where the problem is solved, containing the implementation in Python language, and the other folder contains the documentation for this project, where the deliverables are described according to the project methodology.
+
 For the experimental data a data generator was used, the final results are in the Code folder -> date_experimentale subfolder.
+
 The source code of the pdf is written in LaTex or using the free overleaf platform. See the Documentation folder/directory.
 
 ------------------------------------------------------------------------------------------------------------------------------
