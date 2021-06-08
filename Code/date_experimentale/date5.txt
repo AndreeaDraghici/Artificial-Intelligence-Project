@@ -1,0 +1,18 @@
+
+Folosind Astar search
+
+Dimensiunea parcarii este : 3x3
+Starea initiala este: (0, 3, 6)
+Obiectivul este: (8, 5, 2)
+Actiunile executate sunt: ['SARITURA DREAPTA0', 'SARITURA DREAPTA1', 'SUS2', 'SARITURA INAPOI0', 'STANGA1', 'SUS2', 'STANGA0', 'STANGA0', 'DREAPTA1', 'SARITURA DREAPTA2', 'SARITURA DREAPTA0']
+Timpul executat este de 0.0023467540740966797 secunde
+Costul caii este: 11
+
+Folosind BFS
+
+Dimensiunea parcarii este : 3x3
+Starea initiala este: (0, 3, 6)
+Obiectivul este: (8, 5, 2)
+Actiunile executate sunt: ['SARITURA DREAPTA0', 'SARITURA DREAPTA1', 'SUS2', 'SARITURA INAPOI0', 'STANGA1', 'SUS2', 'STANGA0', 'DREAPTA1', 'SARITURA DREAPTA2', 'DREAPTA0']
+Timpul executat este de 0.0009925365447998047 secunde
+Costul caii este: 10
