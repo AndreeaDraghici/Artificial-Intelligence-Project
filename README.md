@@ -1,7 +1,7 @@
 # Artificial-Intelligence-Project
 
 
-Homework statement
+Homework statement:
 ---------------------------------------------------------------------------------------------------------------------------
 Let us assume thatmvehicles are located in squares (1, 1) through (m, 1) (the bottomrow) of anm×msquared parking. The vehicles must be moved to the top row, but arranged inreverse order; so vehicleistarting from (i, 1) must end up in (m−i+1,m). On each time step, eachof themvehicles is restricted to move only one square up, down, left, or right, or keep currentposition (i.e.  does not move); but if a vehicle does not move, one other adjacent vehicle (butnot more than one) can hop over it. Two vehicles cannot occupy the same square.
 
@@ -12,7 +12,7 @@ b.  Identify a suitable search algorithm for this task and explain your choice.
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
 
-Requirements
+Requirements:
 -------------------------------------------------------------------------------------------------------------------------------
 The task is to analyze the problems and fulfill the following requirements:
 
