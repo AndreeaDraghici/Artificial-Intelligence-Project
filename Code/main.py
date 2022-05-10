@@ -3,7 +3,10 @@ import Code.service
 from Code.model.implementation import *
 from Code.model.generator_date_intrare import *
 
-
+''' 
+Author: Draghici Andreea
+Date: 2021, June
+'''
 def main():
     # noinspection PyGlobalUndefined
     global file

@@ -1,5 +1,8 @@
-
 from Code.service.search import Problem
+''' 
+Author: Draghici Andreea
+Date: 2021, June
+'''
 
 '''
     Specific faptul ca pentru rezolvarea problemei din tema de casa am folosit framework-ul de la 15-puzzle problem aferent platformei de laborator 5,

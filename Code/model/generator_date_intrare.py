@@ -1,5 +1,9 @@
 import random
 
+''' 
+Author: Draghici Andreea
+Date: 2021, June
+'''
 
 def generare_dimensiune_parcare():
     """Generam random dimensiunea parcarii m x m."""
