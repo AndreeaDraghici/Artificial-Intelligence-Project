@@ -10,8 +10,9 @@ def main():
     parking_size = generare_dimensiune_parcare()
     initialState = generare_stare_initiala(parking_size)
     goalState = generare_stare_finala(parking_size, initialState)
+    # add absolut file path before you run the application
     try:
-        file = open(r"C:\Users\user\Desktop\Homework\Code\date_experimentale\date2.txt", 'w')
+        file = open(r"D:\Data\Facultate\Sem2\APD\Lab\Artificial-Intelligence-Project\Code\date_experimentale\date2.txt", 'w')
     except FileExistsError:
         print("Eroare la deschiderea fisierului")
     except IOError:
